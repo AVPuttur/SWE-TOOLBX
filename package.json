@@ -1,0 +1,29 @@
+{
+  "name": "swe-toolbx",
+  "version": "1.0.0",
+  "description": "A ToolBox for SE.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AVPuttur/SWE-TOOLBX.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "JS",
+    "Toolbox"
+  ],
+  "author": "AVPuttur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AVPuttur/SWE-TOOLBX/issues"
+  },
+  "homepage": "https://github.com/AVPuttur/SWE-TOOLBX#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
